@@ -1,4 +1,4 @@
-This is NESasm compiler for NES 6502 assembly, version 3.1 (Latest as of March 2016). Includes `Makefile` for OS X and other Unix-like OSes.
+The O.G. NESasm assembler for NES 6502 assembly, version 3.1 (Latest as of March 2016). Includes `Makefile` for OS X and other Unix-like OSes.
 
 ###### Usage
 
