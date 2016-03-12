@@ -20,8 +20,16 @@ which were found in various places in the aforementioned sites and by lots of re
 
 ###### Resources
 
+Here are various resources that I've found useful in my quest to master NES homebrew game development:
+
 *  [NerdyNights NES Programming Tutorials](http://nintendoage.com/auth/forum/messageview.cfm?catid=22&threadid=7155)
 *  [nesdev.com](http://nesdev.com/)
 *  [Beagle Bros. 6502 Cheatsheet](https://raw.githubusercontent.com/camsaul/nesasm/master/beagle_bros_6502_reference.png)
 *  [Programming the 65816 (PDF of book available for free)](http://archive.6502.org/datasheets/wdc_65816_programming_manual.pdf)
 *  [NES Technical Documentation by YOSHi](https://raw.githubusercontent.com/camsaul/nesasm/master/nes_technical_documentation.txt)
+*  [I Am Error: Platform Studies (book)](http://amzn.to/1RF1VBJ)
+*  [FCEUX - Emulator w/ Debugging Capabilities](http://www.fceux.com/web/home.html)
+*  [Hacking the Legend of Zelda (video)](https://www.youtube.com/watch?v=FolqIgQRtl0)
+*  [NES Scrolling Tutorial (video)](https://vimeo.com/9578423)
+*  [Programming the 6502 (video)](https://www.youtube.com/watch?v=pASatutl2Ik)
+*  [Programming the Nintendo Entertainment System (video)](https://www.youtube.com/watch?v=XT95C4fT6zA)
