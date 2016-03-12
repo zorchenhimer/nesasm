@@ -29,6 +29,8 @@ Here are various resources that I've found useful in my quest to master NES home
 *  [NES Technical Documentation by YOSHi](https://raw.githubusercontent.com/camsaul/nesasm/master/nes_technical_documentation.txt)
 *  [I Am Error: Platform Studies (book)](http://amzn.to/1RF1VBJ)
 *  [FCEUX - Emulator w/ Debugging Capabilities](http://www.fceux.com/web/home.html)
+*  [Tile Layer PRO - CHR Editor (Windows)](http://www.romhacking.net/utilities/108/)
+*  [NES CHR Editor (Mac OS X)](http://www.ninjasftw.com:8080/squirrel/nes_chr/)
 *  [Hacking the Legend of Zelda (video)](https://www.youtube.com/watch?v=FolqIgQRtl0)
 *  [NES Scrolling Tutorial (video)](https://vimeo.com/9578423)
 *  [Programming the 6502 (video)](https://www.youtube.com/watch?v=pASatutl2Ik)
