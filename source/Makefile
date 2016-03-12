@@ -40,3 +40,7 @@ nes.o    : nes.h
 
 $(TARGNES) : $(OBJS)
 	$(CC) -o $(TARGNES)  $(OBJS)
+
+
+install: all
+	cp -f $(TARGNES) /usr/local/bin
