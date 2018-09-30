@@ -382,5 +382,16 @@ void funcdump(const char *name, const char *in_fname)
         }
     }
 
+    fprintf(fns, "\n; RESERVED_BANK\n");
+
+    for (i = 0; i < 256; i++) {
+        struct t_symbol *sym;
+        for (sym = hash_tbl[i]; sym; sym = sym->next) {
+            if (sym->name && sym->bank >= RESERVED_BANK) {
+                fprintf(fns, "%-32s = $%04X\n", sym->name+1, sym->value);
+            }
+        }
+    }
+
     fclose(fns);
 }
