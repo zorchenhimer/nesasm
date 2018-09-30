@@ -1,3 +1,4 @@
 *.o
+*.exe
 /nesasm
 .DS_Store
