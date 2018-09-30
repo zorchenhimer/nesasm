@@ -186,7 +186,7 @@ main(int argc, char **argv)
 	}
 	if (!file) {
 		help();
-		return (0);
+		return (1);
 	}
 
 	/* search file extension */
@@ -500,6 +500,9 @@ main(int argc, char **argv)
 
 	/* GrP dump function addresses */
 	funcdump(fns_fname, in_fname);
+
+    if (errcnt != 0)
+        return(1);
 
 	/* ok */
 	return(0);
